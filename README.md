@@ -5,11 +5,22 @@ Aplicativo para encontrar locais sustentáveis.
 ## Funcionalidades
 - Mapa interativo
 - Busca de locais
-- Cadastro
 
 ## Tecnologias
 - Flutter
 - Dart
+
+## Estrutura do Projeto
+ECOmapa/
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart
+├── test/
+├── web/
+├── windows/
+├── pubspec.yaml
+└── README.md
 
 ## Como rodar
 ```bash
